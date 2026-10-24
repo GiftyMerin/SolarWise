@@ -4,9 +4,9 @@ A machine learning project for estimating household solar power generation using
 
 ### 🚀 Live Demo
 
-**[🌞 Try SolarWise — Predictive Green Energy](YOUR_STREAMLIT_APP_URL)**
+**[🌞 Try SolarWise — Predictive Green Energy](https://solarwise-9na75ozbat5ebv2h7zfzrh.streamlit.app/)**
+
 Explore the interactive app to estimate solar power generation using weather and time-related inputs.
-https://solarwise-9na75ozbat5ebv2h7zfzrh.streamlit.app/
 
 ##  Project Overview
 
