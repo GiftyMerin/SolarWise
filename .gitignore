@@ -1,0 +1,12 @@
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Original and merged datasets (keep data private or download separately)
+data/Plant_1_Generation_Data.csv
+data/Plant_1_Weather_Sensor_Data.csv
+data/Plant_1_Merged_Data.csv
